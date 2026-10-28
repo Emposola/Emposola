@@ -2,72 +2,79 @@
 
 <p align="center"><strong>Build Smart. Grow Faster.</strong></p>
 
-<p align="center">Digital systems for growing businesses &middot; Derry, NH &middot; Founded 2023</p>
+<p align="center">We build the websites, booking flows and payment systems that turn your traffic into revenue.</p>
+
+<p align="center">
+  <a href="https://www.emposola.com"><strong>Start a project</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="mailto:emposola@emposola.com"><strong>emposola@emposola.com</strong></a>
+  &nbsp;&middot;&nbsp;
+  <a href="tel:+16036006011"><strong>+1 (603) 600-6011</strong></a>
+</p>
 
 ---
 
-## Who We Are
+## Why Emposola
 
-Emposola LLC is a web, automation and digital-marketing firm headquartered in Derry, New Hampshire, with an engineering team working remotely. We design, build and operate the websites, booking flows, payment systems and back-office tools that service businesses run on. The goal is simple: software that brings in revenue and removes manual work.
+Emposola LLC is a web engineering, automation and digital-marketing firm headquartered in Derry, New Hampshire. We take service businesses from first click to paid invoice with one connected system: a fast website, online quotes and bookings, secure checkout, and the dashboards and automated email that keep it running with less manual work.
 
-| Founded | Projects delivered | Repeat & referral business |
+| Track record | |
+| :-- | :-- |
+| **Founded** | 2023, Derry, NH |
+| **Projects delivered** | 30+ |
+| **Repeat & referral business** | 90% |
+
+## What You Get
+
+- **More leads:** conversion-focused websites with a clear next step on every page.
+- **Booked calendars:** online quote, intake and booking flows routed straight to your team.
+- **Faster payment:** Stripe checkout, subscriptions and payment links with automatic receipts.
+- **Less admin:** client, staff and partner dashboards on one secure database.
+- **Hands-off operations:** automated confirmations, notifications and scheduled jobs.
+- **Steady visibility:** SEO, social media management and digital marketing.
+
+## Proof: Live Client Work
+
+Production sites designed and built by Emposola. Client source code stays private.
+
+| Client | Industry | Live site |
 | :-- | :-- | :-- |
-| 2023 | 30+ | 90% |
+| Aubrey L. McDade Jr. | Keynote speaking and leadership (Navy Cross recipient) | [aubreymcdadejr.com](https://aubreymcdadejr.com) |
+| Oriental Rug Works | Rug cleaning, repair and sales, Keene, NH | [orientalrugworks.com](https://orientalrugworks.com) |
+| Consuelo's Taqueria | Restaurant, Manchester, NH | [consuelostaqueria.com](https://consuelostaqueria.com) |
+| Lash & Skin Cosmetics | Beauty and skin services, Randolph, MA | [lashandskincosmetics.com](https://lashandskincosmetics.com) |
+| Shamans For Hire | Phone-based readings and healing sessions | [shamanforhire.com](https://shamanforhire.com) |
 
-## What We Build
-
-- Websites that convert visitors into quotes, bookings and paid orders
-- Online booking, intake and quote workflows that land directly in an admin inbox
-- Checkout, subscriptions and payment links with automated receipts and refunds
-- Client, staff and affiliate dashboards backed by a single source of truth
-- Business automation: transactional email, notifications and scheduled jobs
-- Social media management, SEO and digital marketing that drive measurable leads
-
-## Featured Work
-
-Live client sites designed and built by Emposola. Source code is private to each client.
-
-| Client | What it is | Live site |
-| :-- | :-- | :-- |
-| Aubrey L. McDade Jr. | Official site for the Navy Cross recipient and Marine combat veteran: keynote speaking and leadership | [aubreymcdadejr.com](https://aubreymcdadejr.com) |
-| Oriental Rug Works | Rug cleaning, repair and sales business in Keene, NH, with pickup service | [orientalrugworks.com](https://orientalrugworks.com) |
-| Consuelo's Taqueria | Authentic Mexican restaurant in Manchester, NH | [consuelostaqueria.com](https://consuelostaqueria.com) |
-| Lash & Skin Cosmetics | Lash extensions, brow and advanced skin services in Randolph, MA | [lashandskincosmetics.com](https://lashandskincosmetics.com) |
-| Shamans For Hire | Shaman readings and distance healing sessions booked by phone | [shamanforhire.com](https://shamanforhire.com) |
-
-## Tech We Work With
+## Engineering Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-| Layer | Stack |
+| Layer | Technology |
 | :-- | :-- |
-| Frontend | React, Vite, JavaScript / TypeScript, Tailwind CSS |
-| Backend | Supabase: Postgres with row-level security, Auth, Edge Functions on Deno |
-| Payments | Stripe Checkout, subscriptions and webhooks |
-| Email | Resend transactional email |
-| Hosting | Vercel |
+| Frontend | React, Vite, TypeScript / JavaScript, Tailwind CSS |
+| Backend | Supabase Postgres with row-level security, Auth, Edge Functions (Deno) |
+| Payments | Stripe Checkout, subscriptions, webhooks |
+| Messaging | Resend transactional email |
+| Delivery | Vercel |
 
-## How We Work
+## How We Deliver
 
-- **Security first.** Row-level security, server-side secrets and verified webhooks by default.
-- **Every claim is true.** No placeholder content, no invented numbers.
-- **Ship small, ship often.** Reviewed pull requests, tested before production.
-- **Built to convert.** Every page has a clear next step: quote, booking or checkout.
-- **Clear over clever.** Plain code and plain language that clients can own.
+- **Security by default:** row-level security, server-side secrets, verified webhooks.
+- **Verified before launch:** every change is reviewed and tested before it reaches production.
+- **Built to convert:** every page ends in a quote, a booking or a checkout.
+- **You own it:** clean code, documented, in your hands.
 
 ## Work With Us
 
-**[Visit emposola.com](https://www.emposola.com)** to see our services and start a project, or email **[emposola@emposola.com](mailto:emposola@emposola.com)**.
+Ready to turn your website into your best salesperson?
 
-## Contact & Links
+**[Start a project at emposola.com](https://www.emposola.com)** &nbsp;or email **[emposola@emposola.com](mailto:emposola@emposola.com)**
 
-| Channel | Details |
+| Contact | |
 | :-- | :-- |
 | Website | [www.emposola.com](https://www.emposola.com) |
 | Email | [emposola@emposola.com](mailto:emposola@emposola.com) |
@@ -80,4 +87,4 @@ Live client sites designed and built by Emposola. Source code is private to each
 
 ---
 
-<p align="center">Software that brings in revenue and removes manual work. Built with care by Emposola LLC.</p>
+<p align="center"><strong>Emposola LLC</strong> &middot; Build Smart. Grow Faster.</p>
