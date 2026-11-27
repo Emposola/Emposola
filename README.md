@@ -20,7 +20,7 @@ Emposola LLC is a web engineering, automation and digital-marketing firm headqua
 
 | Track record | |
 | :-- | :-- |
-| **Founded** | 2023, Derry, NH |
+| **Founded** | 2023, 221 Main St Ste A, Nashua, NH 03060 · New Hampshire |
 | **Projects delivered** | 30+ |
 | **Repeat & referral business** | 90% |
 
@@ -79,7 +79,7 @@ Ready to turn your website into your best salesperson?
 | Website | [www.emposola.com](https://www.emposola.com) |
 | Email | [emposola@emposola.com](mailto:emposola@emposola.com) |
 | Phone | [+1 (603) 600-6011](tel:+16036006011) |
-| Office | 84 W Broadway Ste 200, Derry, NH 03038 |
+| Office | 221 Main St Ste A, Nashua, NH 03060 · New Hampshire |
 | LinkedIn | [linkedin.com/company/emposola](https://www.linkedin.com/company/emposola) |
 | X | [x.com/emposola](https://x.com/emposola) |
 | Instagram | [instagram.com/emposola](https://www.instagram.com/emposola) |
